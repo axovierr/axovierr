@@ -20,7 +20,7 @@
 ⚡ Fun fact **I can watch 2 seasons of anime in 1 day!**
 
 <h2></h2>
-<h3 align="left">🛠 Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools :</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
