@@ -2,12 +2,14 @@
 <div align="center">
   <img height="200" src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif"  />
 </div>
-<h3 align="center">Passionate about Web Developer and Software Engineer! 👾 </h3>
+<h3 align="center">Passionate about Full-Stack Developer and UI/UX Designer! 👾 </h3>
 
 <h2></h2>
 <h3 align="left">👩‍💻 About Me : </h3>
 
 🌀 I'm a Beginner Programmer
+
+💀 My Personal Website : https://khevin-codex.vercel.app/
 
 🌿 Actively Developing Knowledge
 
